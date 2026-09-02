@@ -1,0 +1,3 @@
+This course is an introduction to software tools and methods used in computer Data Analysis. The course includes an introduction to python in order to be ready to jump into other toolkits that are more focused on the fundamentals of data science. We will be covering SQL, databases, and using Git (as I am now!). We will also discuss agentic coding and deep learning later in the semester.
+
+This repository is for the first homework in the class. The Github repository is used to push updates to programs. This allows multiple users to work on their own copies of the file locally and use Git to push to the hub for change tracking and real time updates. This is distributed version control.
